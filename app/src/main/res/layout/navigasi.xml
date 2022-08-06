@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="424dp"
+        android:layout_height="1332dp"
+        app:srcCompat="@drawable/navigasi"
+        tools:layout_editor_absoluteX="-40dp"
+        tools:layout_editor_absoluteY="-7dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="252dp"
+        android:layout_height="327dp"
+        app:srcCompat="@drawable/bottom_circle"
+        tools:layout_editor_absoluteX="704dp"
+        tools:layout_editor_absoluteY="1390dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="193dp"
+        android:layout_height="35dp"
+        app:srcCompat="@drawable/profile_anggota"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="156dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="194dp"
+        android:layout_height="45dp"
+        app:srcCompat="@drawable/tempat_wisata"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="221dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
